@@ -1,0 +1,381 @@
+{
+ "geradoEm": "2026-11-26",
+ "editais": [
+  {
+   "_id": "capes-26-2026-amsud",
+   "adicionadoEm": "2026-11-26",
+   "agencia": "CAPES · América do Sul",
+   "cronograma": [
+    {
+     "data": "até 29 out 2026",
+     "label": "Inscrição CAPES"
+    },
+    {
+     "data": "até 31 dez 2026",
+     "label": "Resultado"
+    }
+   ],
+   "financiavel": [
+    "Missões de trabalho",
+    "Bolsas"
+   ],
+   "fonte": "CAPES: Edital 26/2026",
+   "link": "https://www.gov.br/capes/pt-br/centrais-de-conteudo/editais/edital_2891614_sei_2891436_edital_26_2026.pdf/@@display-file/file",
+   "objetivo": "Projetos conjuntos entre Brasil, França e outro país sul-americano; o CLIMAT trata de variabilidade e mudanças climáticas.",
+   "pais": "america-do-sul",
+   "prazoISO": "2026-10-29",
+   "prioridade": "baixa",
+   "publicoAlvo": "Coordenador com vínculo permanente e doutorado há pelo menos 5 anos, em PPG com nota 4 ou mais.",
+   "relevancia": "O CLIMAT-AmSud é da área ambiental e repete todo ano; pode interessar ao grupo do orientador.",
+   "situacao": "encerrado",
+   "tipo": [
+    "projeto"
+   ],
+   "titulo": "CAPES MATH, STIC e CLIMAT-AmSud (Edital 26/2026)",
+   "valor": "Até R$ 467 mil por projeto em 2 anos",
+   "verificadoEm": "2026-11-26"
+  },
+  {
+   "_id": "capes-pdse-2027",
+   "adicionadoEm": "2026-11-26",
+   "agencia": "CAPES · Internacional",
+   "cronograma": [
+    {
+     "data": "até 30 set 2026",
+     "label": "Seleção interna (ciclo 2027)"
+    },
+    {
+     "data": "previsto meados de 2027",
+     "label": "Próximo ciclo"
+    }
+   ],
+   "financiavel": [
+    "Bolsa mensal no exterior",
+    "Auxílio deslocamento",
+    "Seguro saúde"
+   ],
+   "fonte": "Notícias de PPGs sobre o PDSE 2027",
+   "link": "https://www.gov.br/capes/pt-br",
+   "objetivo": "Bolsas para doutorandos realizarem parte da pesquisa em instituição no exterior.",
+   "pais": "internacional",
+   "prazoISO": "2026-09-30",
+   "prioridade": "alta",
+   "publicoAlvo": "Doutorandos de PPG com o programa, selecionados internamente pelo próprio PPG.",
+   "relevancia": "Principal porta para o sanduíche. O ciclo 2027 fechou; a próxima seleção interna deve abrir no meio de 2027. Combine com o PPGCA e o orientador cedo.",
+   "situacao": "encerrado",
+   "tipo": [
+    "bolsa"
+   ],
+   "titulo": "CAPES PDSE: Doutorado-Sanduíche no Exterior (ciclo 2027)",
+   "verificadoEm": "2026-11-26"
+  },
+  {
+   "_id": "cnpq-23-2026-lelia-gonzalez",
+   "adicionadoEm": "2026-11-26",
+   "agencia": "CNPq/MIR · Brasil",
+   "cronograma": [
+    {
+     "data": "1 mar 2027",
+     "label": "Inscrições até"
+    }
+   ],
+   "financiavel": [
+    "Projetos de pesquisa"
+   ],
+   "fonte": "CNPq: chamadas abertas",
+   "link": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-23-2026/chamada-publica-cnpq-N-23-2026",
+   "objetivo": "Financiar pesquisas sobre a formação e a reprodução das desigualdades étnico-raciais e seus efeitos na ciência, na educação e na sociedade.",
+   "pais": "brasil",
+   "prazoISO": "2027-03-01",
+   "prioridade": "baixa",
+   "publicoAlvo": "Requisitos no PDF da chamada.",
+   "relevancia": "Fora do eixo ambiental, mas dialoga com pesquisa sobre ciência e sociedade.",
+   "situacao": "aberto",
+   "tipo": [
+    "projeto"
+   ],
+   "titulo": "Programa Lélia Gonzalez (CNPq/MIR 23/2026)",
+   "verificadoEm": "2026-11-26"
+  },
+  {
+   "_id": "cnpq-30-2026-mai-dai",
+   "adicionadoEm": "2026-11-26",
+   "agencia": "CNPq/CAPES · Brasil",
+   "cronograma": [
+    {
+     "data": "11 dez 2026",
+     "label": "Propostas até"
+    }
+   ],
+   "financiavel": [
+    "Bolsas de mestrado e doutorado em parceria com empresas"
+   ],
+   "fonte": "CNPq: chamadas abertas",
+   "link": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-30-2026/chamada-publica-cnpq-N-30-2026",
+   "objetivo": "Estimular pesquisas de mestrado e doutorado em universidades em parceria com empresas.",
+   "pais": "brasil",
+   "prazoISO": "2026-12-11",
+   "prioridade": "baixa",
+   "publicoAlvo": "Proposta institucional, com carta de acordo de empresa parceira.",
+   "relevancia": "Submissão pela instituição com empresa parceira; pouco provável para a tese atual.",
+   "situacao": "aberto",
+   "tipo": [
+    "bolsa"
+   ],
+   "titulo": "Programa MAI/DAI: mestrado e doutorado para inovação (CNPq/CAPES 30/2026)",
+   "verificadoEm": "2026-11-26"
+  },
+  {
+   "_id": "cnpq-32-2026-anr-brasil-franca",
+   "adicionadoEm": "2026-11-26",
+   "agencia": "MCTI/CNPq/ANR · França",
+   "cronograma": [
+    {
+     "data": "31 mar 2027",
+     "label": "Inscrições até"
+    }
+   ],
+   "financiavel": [
+    "Projeto de pesquisa conjunto"
+   ],
+   "fonte": "CNPq: chamadas abertas",
+   "link": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-32-2026/chamada-publica-cnpq-N-32-2026",
+   "objetivo": "Selecionar projetos de pesquisa conjuntos entre grupos brasileiros e franceses.",
+   "pais": "franca",
+   "prazoISO": "2027-03-31",
+   "prioridade": "media",
+   "publicoAlvo": "Grupos de pesquisa brasileiros com parceiro francês; coordenação por pesquisador doutor.",
+   "relevancia": "Exige coordenador doutor; vale levar ao orientador se houver parceria com grupo francês.",
+   "situacao": "aberto",
+   "tipo": [
+    "projeto"
+   ],
+   "titulo": "Projetos conjuntos Brasil-França (MCTI/CNPq/ANR 32/2026)",
+   "verificadoEm": "2026-11-26"
+  },
+  {
+   "_id": "cnpq-33-2026-produtividade",
+   "adicionadoEm": "2026-11-26",
+   "agencia": "CNPq · Brasil",
+   "cronograma": [
+    {
+     "data": "7 jan 2027",
+     "label": "Inscrições até"
+    }
+   ],
+   "financiavel": [
+    "Bolsa mensal de produtividade",
+    "Adicional de bancada"
+   ],
+   "fonte": "CNPq: chamadas abertas",
+   "link": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-33-2026/chamada-publica-cnpq-N-33-2026",
+   "objetivo": "Conceder bolsas de produtividade em pesquisa e em desenvolvimento tecnológico.",
+   "pais": "brasil",
+   "prazoISO": "2027-01-07",
+   "prioridade": "baixa",
+   "publicoAlvo": "Pesquisadores doutores com produção destacada.",
+   "relevancia": "Exige doutorado concluído; referência para depois da defesa.",
+   "situacao": "aberto",
+   "tipo": [
+    "bolsa"
+   ],
+   "titulo": "Bolsas de Produtividade, PQ/DT/PQSr (CNPq 33/2026)",
+   "verificadoEm": "2026-11-26"
+  },
+  {
+   "_id": "cnpq-34-2026-arc-eventos",
+   "adicionadoEm": "2026-11-26",
+   "agencia": "CNPq · Brasil",
+   "cronograma": [
+    {
+     "data": "4 dez 2026",
+     "label": "Propostas até"
+    }
+   ],
+   "financiavel": [
+    "Despesas de organização de eventos"
+   ],
+   "fonte": "CNPq: chamadas abertas",
+   "link": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-34-2026/chamada-publica-cnpq-N-34-2026",
+   "objetivo": "Apoiar eventos de ciência, tecnologia e inovação de grande porte realizados no Brasil.",
+   "pais": "brasil",
+   "prazoISO": "2026-12-04",
+   "prioridade": "baixa",
+   "publicoAlvo": "Organizadores de eventos científicos; requisitos no PDF.",
+   "relevancia": "Útil se o PPGCA ou a PRPPG organizar evento em 2027.",
+   "situacao": "aberto",
+   "tipo": [
+    "evento"
+   ],
+   "titulo": "Auxílio à Promoção de Eventos Científicos, ARC (CNPq 34/2026)",
+   "verificadoEm": "2026-11-26"
+  },
+  {
+   "_id": "cnpq-36-2026-cursos-biodiversidade-cfbba",
+   "adicionadoEm": "2026-11-26",
+   "agencia": "CNPq/MCTI · Brasil",
+   "cronograma": [
+    {
+     "data": "12 fev 2027",
+     "label": "Inscrições até"
+    }
+   ],
+   "financiavel": [
+    "Realização de cursos de curta duração"
+   ],
+   "fonte": "CNPq: chamadas abertas",
+   "link": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-36-2026/chamada-publica-cnpq-N-36-2026",
+   "objetivo": "Apoiar cursos de curta duração sobre biodiversidade no âmbito do Centro Franco-Brasileiro de Biodiversidade Amazônica (CFBBA), fortalecendo a cooperação Brasil-França.",
+   "pais": "brasil",
+   "prazoISO": "2027-02-12",
+   "prioridade": "media",
+   "publicoAlvo": "Pesquisadores proponentes de cursos; requisitos no PDF da chamada.",
+   "relevancia": "Tema próximo da área ambiental; pode ser via orientador ou grupo de pesquisa do PPGCA.",
+   "situacao": "aberto",
+   "tipo": [
+    "projeto",
+    "evento"
+   ],
+   "titulo": "Cursos de curta duração em biodiversidade, Centro Franco-Brasileiro (Chamada 36/2026)",
+   "verificadoEm": "2026-11-26"
+  },
+  {
+   "_id": "cnpq-37-2026-brasil-suecia",
+   "adicionadoEm": "2026-11-26",
+   "agencia": "MCTI/CNPq/CISB/SAAB · Suécia",
+   "cronograma": [
+    {
+     "data": "11 nov 2026",
+     "label": "Publicação"
+    },
+    {
+     "data": "12 mar 2027",
+     "label": "Inscrições até"
+    }
+   ],
+   "financiavel": [
+    "Bolsa no exterior (doutorado sanduíche ou pós-doutorado)"
+   ],
+   "fonte": "CNPq: chamadas abertas",
+   "link": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-37-2026/chamada-publica-cnpq-N-37-2026",
+   "objetivo": "Selecionar candidatos para realizar parte da pesquisa de doutorado ou um projeto de pós-doutorado na Suécia, em áreas acordadas entre CNPq, CISB e SAAB.",
+   "pais": "suecia",
+   "prazoISO": "2027-03-12",
+   "prioridade": "alta",
+   "publicoAlvo": "Doutorandos e pós-doutorandos; requisitos e áreas no PDF da chamada.",
+   "relevancia": "Uma das poucas chamadas abertas hoje que levam doutorando para o exterior. Confira no PDF se as áreas aceitas incluem ciências ambientais ou sustentabilidade.",
+   "situacao": "aberto",
+   "tipo": [
+    "bolsa"
+   ],
+   "titulo": "Cooperação Brasil-Suécia: doutorado sanduíche e pós-doc (Chamada 37/2026)",
+   "verificadoEm": "2026-11-26"
+  },
+  {
+   "_id": "daad-doutorado-2027",
+   "adicionadoEm": "2026-11-26",
+   "agencia": "DAAD · Alemanha",
+   "cronograma": [
+    {
+     "data": "até 3 set 2026",
+     "label": "Inscrições"
+    }
+   ],
+   "financiavel": [
+    "Bolsa mensal",
+    "Seguro saúde",
+    "Passagem"
+   ],
+   "fonte": "Centro Brasileiro da Univ. de Münster",
+   "link": "https://www.uni-muenster.de/Brasilienzentrum/pt/aktuelles/news/2026/DAADPromotion2026.html",
+   "objetivo": "Bolsas de doutorado na Alemanha nas modalidades integral, cotutela e sanduíche.",
+   "pais": "alemanha",
+   "prazoISO": "2026-09-03",
+   "prioridade": "media",
+   "publicoAlvo": "Doutorandos brasileiros; requisitos na chamada do DAAD.",
+   "relevancia": "Ciclo fechou em setembro de 2026; o próximo deve fechar em setembro de 2027.",
+   "situacao": "encerrado",
+   "tipo": [
+    "bolsa"
+   ],
+   "titulo": "DAAD: doutorado integral, cotutela ou sanduíche na Alemanha (2027)",
+   "verificadoEm": "2026-11-26"
+  },
+  {
+   "_id": "fapemat-profix-cb-2026",
+   "adicionadoEm": "2026-11-26",
+   "agencia": "FAPEMAT/CNPq/CAPES/Seciteci · Brasil",
+   "cronograma": [
+    {
+     "data": "até 13 ago 2026",
+     "label": "Inscrições"
+    },
+    {
+     "data": "15 out 2026",
+     "label": "Resultado final"
+    }
+   ],
+   "financiavel": [
+    "Bolsa de R$ 13 mil/mês por 48 meses",
+    "Bolsas de doutorado e mestrado",
+    "Custeio até R$ 150 mil"
+   ],
+   "fonte": "HNT (notícia sobre o edital)",
+   "link": "https://www.hnt.com.br/empregos-concursos/fapemat-lanca-edital-de-r-233-milhoes-para-financiar-pesquisas-e-atrair-doutores-para-mato-grosso/561625",
+   "objetivo": "Financiar projetos e atrair doutores sem vínculo empregatício para instituições de Mato Grosso, em áreas como biodiversidade, recursos hídricos e mudanças climáticas.",
+   "pais": "brasil",
+   "prazoISO": "2026-08-13",
+   "prioridade": "media",
+   "publicoAlvo": "Doutores brasileiros sem vínculo empregatício, com projeto em instituição e PPG de MT.",
+   "relevancia": "Exige doutor sem vínculo, então não se aplica agora. Mostra o porte dos editais da FAPEMAT em 2026.",
+   "situacao": "encerrado",
+   "tipo": [
+    "bolsa",
+    "projeto"
+   ],
+   "titulo": "FAPEMAT Profix-CB: fixação de doutores em Mato Grosso",
+   "valor": "R$ 23,3 milhões no total; até R$ 973 mil por projeto",
+   "verificadoEm": "2026-11-26"
+  },
+  {
+   "_id": "fulbright-ddra-2027-2028",
+   "adicionadoEm": "2026-11-26",
+   "agencia": "Comissão Fulbright · EUA",
+   "cronograma": [
+    {
+     "data": "até 2 ago 2026",
+     "label": "Inscrições"
+    },
+    {
+     "data": "out 2026",
+     "label": "Entrevistas"
+    },
+    {
+     "data": "nov 2026",
+     "label": "Resultado"
+    }
+   ],
+   "financiavel": [
+    "Bolsa mensal",
+    "Passagem aérea",
+    "Auxílio instalação de US$ 2.000",
+    "Seguro saúde limitado"
+   ],
+   "fonte": "Chamada Fulbright DDRA 2027-2028",
+   "link": "https://fulbright.org.br/wp-content/uploads/2023/05/Call-BR-DDR-2027-2028.pdf",
+   "objetivo": "Até 50 bolsas de 9 meses para doutorandos brasileiros pesquisarem em universidades dos EUA.",
+   "pais": "eua",
+   "prazoISO": "2026-08-02",
+   "prioridade": "alta",
+   "publicoAlvo": "Brasileiros matriculados em doutorado no Brasil, com TOEFL iBT 81, IELTS 6.5 ou Duolingo 110.",
+   "relevancia": "Ciclo encerrado em agosto; o próximo deve fechar por volta de agosto de 2027. O exame de inglês é o passo que mais demora.",
+   "situacao": "encerrado",
+   "tipo": [
+    "bolsa"
+   ],
+   "titulo": "Fulbright DDRA: pesquisa de doutorado nos EUA (2027-2028)",
+   "valor": "Bolsa mensal + passagem + US$ 2.000 de instalação",
+   "verificadoEm": "2026-11-26"
+  }
+ ]
+}
